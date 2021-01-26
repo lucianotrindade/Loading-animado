@@ -5,8 +5,5 @@ Nesse projeto decidi fazer um loading animado para fixar algumas propriedades em
 
 
 
-#### A ideia foi fazer duas animações para fixar melhor o conteúdo estudado.
-
-
-![Imagem do projeto](url(imagem/Loading.JPG))
+#### A ideia foi fazer duas animações para fixar melhor o conteúdo estudado
 
