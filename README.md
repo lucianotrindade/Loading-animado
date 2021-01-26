@@ -5,3 +5,8 @@ Nesse projeto decidi fazer um loading animado para fixar algumas propriedades em
 
 
 
+#### A ideia foi fazer duas animações para fixar melhor o conteúdo estudado.
+
+
+
+
