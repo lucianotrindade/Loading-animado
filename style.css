@@ -52,6 +52,6 @@ p{
 
 @keyframes rodar{
     0%{
-        transform: rotate(360deg);
+        transform: rotate(-360deg);
     }
 }
