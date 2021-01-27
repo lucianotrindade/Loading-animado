@@ -10,4 +10,4 @@ Nesse projeto decidi fazer um loading animado para fixar algumas propriedades em
 Layout:
 
 
-![Gif do projeto](https://github.com/lucianotrindade/Loading-animado/blob/main/assets/20210126_145351.gif)
+![Gif do projeto](https://github.com/lucianotrindade/Loading-animado/blob/main/assets/Loading-gif.gif)
