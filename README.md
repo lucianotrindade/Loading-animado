@@ -1,4 +1,4 @@
-# Loading animado
+# _**Loading animado**_
 ## Aprendendo um pouco mais sobre animação em css.
 
 Nesse projeto decidi fazer um loading animado para fixar algumas propriedades em css.
@@ -11,3 +11,4 @@ Layout:
 
 
 ![Gif do projeto](https://github.com/lucianotrindade/Loading-animado/blob/main/assets/Loading%20(1).gif)
+
